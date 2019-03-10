@@ -1,0 +1,7 @@
+#pragma once
+
+#define CHARACTER_SOLID L'\u2588'
+#define CHARACTER_LOWER_HALF L'\u2584'
+#define CHARACTER_UPPER_HALF L'\u2580'
+#define CHARACTER_LEFT_HALF L'\u258c'
+#define CHARACTER_RIGHT_HALF L'\u2590'
